@@ -20,7 +20,7 @@ $       (Foam Bomb)       => This piece fills up all the REACHABLE cells in a 6*
 Instructions
 ----------------------------------------------
 
-Controls : 
-SPACE_BAR : fast fall 
-UP_KEY: rotate piece
+Controls :  
+SPACE_BAR : fast fall  
+UP_KEY: rotate piece  
 LEFT, RIGHT KEYS: Move the pieces left and right
